@@ -1,4 +1,4 @@
-[https://developer.mozilla.org/zh-CN/docs/Web/CSS/background-origin](url)
+[css文档中文](https://developer.mozilla.org/zh-CN/docs/Web/CSS/background-origin)
 
 添加一个将图片放在右下角的css写入语法
 
